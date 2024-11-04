@@ -1,0 +1,14 @@
+
+.Header {
+  margin: 20px 0px;
+}
+
+.Date {
+  display: inline;
+}
+
+.Time {
+  display: inline;
+  color: gray;
+  margin-left: 10px;
+}
